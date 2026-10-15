@@ -10,7 +10,9 @@ Loss of consciousness under anesthesia is associated with changes in neural dyna
 * **Source:** OpenNeuro ds005620 [A repeated awakening study exploring the capacity of complexity measures to capture dreaming during propofol sedation]
 * **citation:**  Imad J. Bajwa1, Andre S. Nilsen1, René Skukies1,3, Arnfinn Aamodt1, Gernot Ernst2, Johan F. Storm1, and Bjørn E. Juel1,2 (2024). A repeated awakening study exploring the capacity of complexity measures to capture dreaming during propofol sedation. OpenNeuro. [Dataset] doi: doi:10.18112/openneuro.ds005620.v1.0.0
 * **License:**
-This dataset is licensed under CC-BY-4.0.
+* The source code in this repository is licensed under the MIT License.
+• The underlying dataset and processed data are derived from [ OpenNeuro ds005620] and are licensed under CC BY-4.0.
+
 ______________________________________
 
 ## 🛠️ Project Pipeline
