@@ -139,7 +139,7 @@ Ensure you have Python installed locally.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/ultimate-penguin/eeg-consciousness-classification.git
    cd eeg-consciousness-classification
    ```
 2. Install dependencies:
