@@ -1,0 +1,19 @@
+General
+Filename(s)	sub-1017_task-awake_acq-EC_eeg.eeg
+MNE object type	RawBrainVision
+Measurement date	Unknown
+Participant	Unknown
+Experimenter	Unknown
+
+Acquisition
+Duration	00:05:01 (HH:MM:SS)
+Sampling frequency	5000.00 Hz
+Time points	1,500,001
+
+Channels
+EEG	65
+Head & sensor digitization	Not available
+
+Filters
+Highpass	0.00 Hz
+Lowpass	2500.00 Hz

@@ -1,0 +1,27 @@
+iit features
+
+random forest
+
+	
+Test Set: Classification report
+              precision    recall  f1-score   support
+
+           0       0.76      0.69      0.72       500
+           1       0.65      0.73      0.69       400
+
+    accuracy                           0.71       900
+   macro avg       0.71      0.71      0.71       900
+weighted avg       0.71      0.71      0.71       900
+
+
+support vector machine
+
+Test Set: Classification report
+              precision    recall  f1-score   support
+
+           0       0.82      0.62      0.71       500
+           1       0.64      0.83      0.72       400
+
+    accuracy                           0.71       900
+   macro avg       0.73      0.73      0.71       900
+weighted avg       0.74      0.71      0.71       900

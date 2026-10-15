@@ -1,0 +1,89 @@
+spectral+MI
+
+forest
+
+Test Set: Classification report
+              precision    recall  f1-score   support
+
+           0       0.86      0.77      0.81       500
+           1       0.75      0.84      0.79       400
+
+    accuracy                           0.80       900
+   macro avg       0.80      0.81      0.80       900
+weighted avg       0.81      0.80      0.80       900
+
+svm
+
+Test Set: Classification report
+              precision    recall  f1-score   support
+
+           0       0.95      0.67      0.78       500
+           1       0.70      0.95      0.81       400
+
+    accuracy                           0.80       900
+   macro avg       0.82      0.81      0.79       900
+weighted avg       0.84      0.80      0.79       900
+
+spectral+complexity
+
+forest
+
+Test Set: Classification report
+              precision    recall  f1-score   support
+
+           0       0.87      0.73      0.79       500
+           1       0.72      0.86      0.78       400
+
+    accuracy                           0.79       900
+   macro avg       0.79      0.80      0.79       900
+weighted avg       0.80      0.79      0.79       900
+
+svm
+
+Test Set: Classification report
+              precision    recall  f1-score   support
+
+           0       0.83      0.64      0.72       500
+           1       0.65      0.84      0.73       400
+
+    accuracy                           0.73       900
+   macro avg       0.74      0.74      0.73       900
+weighted avg       0.75      0.73      0.73       900
+
+spectral+o-information
+
+forest
+
+Test Set: Classification report
+              precision    recall  f1-score   support
+
+           0       0.83      0.72      0.77       500
+           1       0.70      0.81      0.75       400
+
+    accuracy                           0.76       900
+   macro avg       0.76      0.77      0.76       900
+weighted avg       0.77      0.76      0.76       900
+
+svm
+
+Test Set: Classification report
+              precision    recall  f1-score   support
+
+           0       0.94      0.64      0.76       500
+           1       0.68      0.94      0.79       400
+
+    accuracy                           0.78       900
+   macro avg       0.81      0.79      0.77       900
+weighted avg       0.82      0.78      0.77       900
+
+tuned-forest_MI
+
+Test Set: Classification report
+              precision    recall  f1-score   support
+
+           0       0.85      0.77      0.81       500
+           1       0.74      0.83      0.79       400
+
+    accuracy                           0.80       900
+   macro avg       0.80      0.80      0.80       900
+weighted avg       0.80      0.80      0.80       900

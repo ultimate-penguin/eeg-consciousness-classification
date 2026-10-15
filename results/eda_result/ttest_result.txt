@@ -1,0 +1,15 @@
+
+O information
+T-statistic: -15.9771
+P-value: 0.0000
+rejected. significance difference
+
+Mutual information
+T-statistic: -24.2468
+P-value: 0.0000
+rejected. significance difference
+
+Complexity
+T-statistic: 21.5317
+P-value: 0.0000
+rejected. significance difference
