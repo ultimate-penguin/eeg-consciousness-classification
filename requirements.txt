@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+openneuro-py
+mne
+scikit-learn
+matplotlib
+seaborn
+shap
+antropy
+hoi
+xgboost
