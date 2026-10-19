@@ -151,4 +151,4 @@ Ensure you have Python installed locally.
 
 
 ## 👤 Author
-* **Ultimate Penguin** - [LinkedIn](https://linkedin.com)
+* **Ultimate Penguin** - [Github]( https://github.com/ultimate-penguin)
